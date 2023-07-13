@@ -1,0 +1,160 @@
+{
+  "spider": "",
+"warningText": "🌺4K源自🌺网络🌺完全免费🌺",
+
+
+"sites":[
+
+
+
+
+{"key": "i4k","name": "📀I4K","type": 3,"api": "csp_I4K","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://jihulab.com/hami/stop/-/raw/main/农作物/i4k.jar;md5;3e42de262d22a12432699eac342956bd"},
+
+
+
+{"key": "csp_QQ","name": "📀企鹅4K","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://jihulab.com/hami/stop/-/raw/main/农作物/i4k.jar;md5;3e42de262d22a12432699eac342956bd"},
+
+
+
+{"key":"酷酷","name":"📀酷酷4K","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","jar": "https://9xi4o.tk/TVB/jar/fan.txt;md5;6fb0a205b857f35e165a5f8cb2f8056d","categories":["4K电影","4K电视剧","电影"]},
+
+
+
+{"key": "轻简","name": "📀轻简4K","type": 1,"api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","qlayerType": 2,"jar":"https://download.kstore.space/download/4127/0.txt","categories": ["电影","电视剧","综艺","动漫"]},
+ 
+
+
+{"key": "视界","name":"📀视界4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/wlcmc/tv/raw/master/jar/YSC.jar","ext":"https://lg.tvcms.top/api.php/app/"}, 
+
+
+
+
+
+{"key": "探探","name": "📀影探4K","type": 3,"api": "csp_YT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://jihulab.com/yuzuonan/a/-/raw/master/bao/fan.txt?inline=false"},
+
+
+
+{"key":"csp_yt","name":"📀YT4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F","ext":"https://www.lfytv.cn/api.php/app/"},
+
+
+
+
+
+{"key":"seedhub","name": "🚢磁力4K","type": 3,"api": "csp_Seedhub","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://agit.ai/yumorer/mytv/raw/branch/master/file/MySpider.jar"},
+
+
+
+
+
+{"key": "csp_AppMr","name": "🐬影视范4K","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://jihulab.com/blank7355005/box/-/raw/main/jar/0608.jar;md5;f6fc0c04d3e365f4bc82e0072b6a78ae"},
+
+
+
+
+
+{"key": "圣城",
+      "name": "🌸圣城蓝光4K",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/lpf2255/live-source/raw/master/zxzj.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+
+
+
+
+
+{
+      "key": "Lgyy",
+      "name": " 📽 蓝光",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "b2e573ff040fcd54b50475660ee1a7d1",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E6%8E%A8%E8%8D%90%E5%8C%85jar/%E8%93%9D%E5%85%89.jar"
+    },
+
+
+{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key":"小苹果","name":"🍎小苹果4K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key": "csp_aidi_api","name": "🦖爱迪影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://download.kstore.space/download/4127/0.txt","ext": "https://aidiapp.xyz/xgapp.php/v2/"},
+
+
+
+{"key":"csp_Czsapp","name":"🏭厂长影剧","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.art/","jar":"http://www.tvbox.lltv8.top/TVBox/jar/lltv8.jar"},
+
+
+
+
+
+
+
+
+
+
+
+{"key":"csp_Auete","name":"🐼Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key":"csp_Cokemv","name":"🚗Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/","jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key":"csp_Bttoo","name":"💢BTtwo","type":3,"api":"csp_Bttwoo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+{"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/","jar":"https://9xi4o.tk/TVB/jar/fan.txt;md5;6fb0a205b857f35e165a5f8cb2f8056d"},
+
+
+{"key": "ZXZJ","name": "💢之家在线","api": "csp_Zxzj","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar":"https://gitee.com/lpf2255/live-source/raw/master/zxzj.jar;md5;cee9f2d2db9e38f46933d836a9d8b674"},
+
+
+
+{"key": "3EDY","name": "🪐3EDY","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"http://www.tvbox.lltv8.top/TVBox/jar/xzy1029.jar"},
+
+
+{"key":"csp_Bd","name":"☀️哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/n3rd/N3RD/raw/branch/master/J/lem0620.jar;md5;9F9D81F6423A93071FA04BEEE1B76F21"},
+
+
+
+
+
+
+
+{"key": "xml_新浪资源","name": "💪XINLANG资源","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧"]}, 
+
+
+ 
+
+
+
+
+
+{"key":"csp_XBiuCOKEMV","name":"🎡Cokemv","type":3,"api":"csp_XBiu","jar":"http://我不是.肥猫.love:63/Jar/panda230328.jar;md5;E58AAE92A5D085B6DBEA452695FAEF5A","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"}
+
+
+
+
+
+
+  ]
+}
